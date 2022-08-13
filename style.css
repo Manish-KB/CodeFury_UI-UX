@@ -1,71 +1,109 @@
-.container{
+.container {
     width: 100%;
     margin: 20px;
- 
+
     font-size: 24px;
     padding: 2px;
     height: 50%;
 
 }
-.one{
 
-background-color: #F3BA40;
+.one {
+
+    background-color: #F3BA40;
+    width: 100%;
+    margin: 30 0px;
+    font-size: 24px;
+    padding: 5px;
+    height: 50%;
 
 }
-.two{
+
+.two {
     background-color: #ff6a3d;
+    width: 100%;
+    margin: 30 0px;
+    font-size: 24px;
+    padding: 5px;
+    height: 50%;
 }
 
-.top{
+.top {
     color: white;
     background-color: #1a2238;
     background-size: cover;
     background-attachment: fixed;
-    height:90%;
+    height: 90%;
     border-bottom-right-radius: 50px;
     border-bottom-left-radius: 50px;
 }
-.logo{
+
+.logo {
     height: 5rem;
     margin: 10px;
 }
-.navCustom{
+
+.navCustom {
     font-size: 30px;
     background-color: transparent;
 }
-.parallax2{
+
+.parallax2 {
     background: url('images/pexels-photo-1379636.jpeg') no-repeat center;
     background-size: cover;
     background-attachment: fixed;
-    height:500px;
-}
-.parallax3{
-    background: url('images/pexels-photo-1379636.jpeg') no-repeat center;
-    background-size: cover;
-    background-attachment: fixed;
-    height:500px;
+    height: 500px;
+    width: 100%;
+    margin: 30 0px;
+    font-size: 24px;
+    padding: 5px;
+    height: 50%;
 }
 
-.parallax4{
+.parallax3 {
     background: url('images/pexels-photo-1379636.jpeg') no-repeat center;
     background-size: cover;
     background-attachment: fixed;
-    height:500px;
+    height: 500px;
 }
-.yellow{
-color: #f4d87d;
+
+.parallax4 {
+    background: url('images/pexels-photo-1379636.jpeg') no-repeat center;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 500px;
 }
-.orange{
-color:#ff6a3d ;
+
+.yellow {
+    color: #f4d87d;
 }
-.blue{
-color: #9daaf2;
+
+.orange {
+    color: #ff6a3d;
 }
-.top_para{
+
+.blue {
+    color: #9daaf2;
+}
+
+.top_para {
     font-size: 70px;
 }
-.mainPara{
+
+.mainPara {
     max-width: 60%;
-   margin: auto;
-   
+    margin: auto;
+
 }
+
+
+
+
+
+
+
+
+
+/* Startups  */
+
+
