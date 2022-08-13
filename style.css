@@ -16,7 +16,7 @@
     font-size: 24px;
     padding: 5px;
     height: 50%;
-
+display: block;
 }
 
 .two {
@@ -109,7 +109,7 @@
     border: none;
     outline: none;
     height: 40px;
-    width: 12%;
+    width: auto;
     background: #f4d87d;
     border-radius: 20px;
     z-index: -1;
@@ -141,7 +141,25 @@
     z-index: 100;
 }
 
+.image{
+display: inline-block;
+margin: 5%;
+margin-right: 15%;
+margin-left: 10%;
 
+}
+.image img{
+height: 50%;
+}
+
+.content{
+display: inline-block;
+}
+
+.head{
+    font-size: 40px;
+    color: rgb(50, 50, 50);
+}
 
 
 /* Startups  */
