@@ -46,9 +46,10 @@
 .navCustom {
     font-size: 25px;
     background-color: transparent;
-    
+
 }
-.navCustom li{
+
+.navCustom li {
     margin: 10px;
 }
 
@@ -101,8 +102,30 @@
 }
 
 
+.buttn {
+    font-size: 20px;
+    margin-top:5% ;
+    color: rgb(36, 36, 36);
+    border: none;
+    outline: none;
+    height: 40px;
+    width: 12%;
+    background: #f4d87d;
+    border-radius: 20px;
+    z-index: -1;
+}
 
-
+.buttn:hover {
+    cursor: pointer;
+    background: rgb(240, 217, 100);
+    box-shadow: 0 0 5px rgb(240, 217, 100),
+        0 0 20px rgb(240, 217, 100) ,
+      0 0 60px rgb(240, 217, 100);
+}
+.buttn a{
+    text-decoration: none;
+    color:rgb(36, 36, 36);
+}
 
 
 
@@ -111,5 +134,3 @@
 
 
 /* Startups  */
-
-
