@@ -1,0 +1,62 @@
+.container{
+    width: 100%;
+    margin: 20px;
+    background: #f9f9f9;
+    font-size: 24px;
+    padding: 2px;
+    height: 50%;
+
+}
+.top{
+    color: white;
+    background-color: #1a2238;
+    background-size: cover;
+    background-attachment: fixed;
+    height:90%;
+    border-bottom-right-radius: 50px;
+    border-bottom-left-radius: 50px;
+}
+.logo{
+    height: 5rem;
+    margin: 10px;
+}
+.navCustom{
+    font-size: 30px;
+    background-color: transparent;
+}
+.parallax2{
+    background: url('images/pexels-photo-1379636.jpeg') no-repeat center;
+    background-size: cover;
+    background-attachment: fixed;
+    height:500px;
+}
+.parallax3{
+    background: url('images/pexels-photo-1379636.jpeg') no-repeat center;
+    background-size: cover;
+    background-attachment: fixed;
+    height:500px;
+}
+
+.parallax4{
+    background: url('images/pexels-photo-1379636.jpeg') no-repeat center;
+    background-size: cover;
+    background-attachment: fixed;
+    height:500px;
+}
+.yellow{
+color: #f4d87d;
+}
+.orange{
+color:#ff6a3d ;
+}
+.blue{
+color: #9daaf2;
+}
+.top_para{
+    font-size: 70px;
+}
+.mainPara{
+    max-width: 60%;
+   margin: auto;
+   
+}
