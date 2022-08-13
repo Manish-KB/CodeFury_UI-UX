@@ -1,12 +1,21 @@
 .container{
     width: 100%;
     margin: 20px;
-    background: #f9f9f9;
+ 
     font-size: 24px;
     padding: 2px;
     height: 50%;
 
 }
+.one{
+
+background-color: #F3BA40;
+
+}
+.two{
+    background-color: #ff6a3d;
+}
+
 .top{
     color: white;
     background-color: #1a2238;
