@@ -10,7 +10,7 @@
 
 .one {
 
-    background-color: #F3BA40;
+    /* background-color: #F3BA40; */
     width: 100%;
     margin: 30 0px;
     font-size: 24px;
@@ -20,7 +20,7 @@
 }
 
 .two {
-    background-color: #ff6a3d;
+    /* background-color: #ff6a3d; */
     width: 100%;
     margin: 30 0px;
     font-size: 24px;
@@ -33,9 +33,9 @@
     background-color: #1a2238;
     background-size: cover;
     background-attachment: fixed;
-    height: 90%;
-    border-bottom-right-radius: 50px;
-    border-bottom-left-radius: 50px;
+    height: 80%;
+    /* border-bottom-right-radius: 50px;
+    border-bottom-left-radius: 50px; */
 }
 
 .logo {
@@ -44,15 +44,19 @@
 }
 
 .navCustom {
-    font-size: 30px;
+    font-size: 25px;
     background-color: transparent;
+    
+}
+.navCustom li{
+    margin: 10px;
 }
 
 .parallax2 {
     background: url('images/pexels-photo-1379636.jpeg') no-repeat center;
     background-size: cover;
     background-attachment: fixed;
-    height: 500px;
+    height: 50%;
     width: 100%;
     margin: 30 0px;
     font-size: 24px;
@@ -91,10 +95,12 @@
 }
 
 .mainPara {
-    max-width: 60%;
+    max-width: 80%;
     margin: auto;
 
 }
+
+
 
 
 
