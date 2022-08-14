@@ -138,6 +138,24 @@ h2 {
     font-size: 65px;
 }
 
+.home{
+    margin-top: 1%;
+    margin-left: 95%;
+}
+.home a{
+    text-decoration: none;
+color: rgb(87, 87, 87);
+
+}
+.home a:hover{
+    text-decoration: none;
+    color: rgb(27, 27, 27);
+
+}
+
+
+
+
 
 
 

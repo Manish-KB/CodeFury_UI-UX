@@ -169,5 +169,73 @@ color: rgb(50, 50, 50);
 }
 
 
+.footer{
+    background:#1a2238;
+    text-decoration: none;
+  }
+  
+  .footer .box-container{
+    display: flex;
+    flex-wrap: wrap;
+    gap:1.5rem;
+    text-decoration: none;
+  }
+  
+  .footer .box-container .box{
+    padding:1rem 0;
+    flex:1 1 25rem;
+    text-decoration: none;
+  }
+  
+  .footer .box-container .box h3{
+    font-size: 1.5rem;
+    padding:.7rem 0;
+    color:#fff;
+    text-decoration: none;
+  }
+  
+  .footer .box-container .box p{
+    font-size: 1.5rem;
+    padding:.7rem 0;
+    color:#eee;
+    text-decoration: none;
+  }
+  
+  .footer .box-container .box a{
+    display: block;
+    font-size: 1.5rem;
+    padding:.7rem 0;
+    color:#eee;
+    text-decoration: none;
+  }
+  
+  .footer .box-container .box a:hover{
+    color:#ffa500;
+    text-decoration: underline;
+  }
+  
+  .footer .credit{
+    text-align: center;
+    padding:2rem 1rem;
+    margin-top: 1rem;
+    font-size: 2rem;
+    font-weight: normal;
+    color:#fff;
+    border-top: .1rem solid rgba(255,255,255,.2);
+  }
+  
+  .footer .credit span{
+    color:#ffa500;
+  }
+  
+  .footer .box-container .box i{
+    display: block;
+    font-size: 1.5rem;
+    padding:.7rem 0;
+    color:#eee;
+    text-decoration: none;
 
-/* Startups  */
+  }
+
+
+
