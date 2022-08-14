@@ -58,8 +58,8 @@ overflow: hidden;
     margin: 10px;
 }
 
-.parallax2 {
-    background: url('images/pexels-photo-1379636.jpeg') no-repeat center;
+.parallax1 {
+    background: url('images/startup-1.jpg') no-repeat center;
     background-size: cover;
     background-attachment: fixed;
     height: 50%;
@@ -70,18 +70,27 @@ overflow: hidden;
     height: 50%;
 }
 
-.parallax3 {
-    background: url('images/pexels-photo-1379636.jpeg') no-repeat center;
+.parallax2 {
+    background: url('images/startup-2.jpg') no-repeat center;
     background-size: cover;
     background-attachment: fixed;
-    height: 500px;
+    height: 50%;
+    width: 100%;
+    margin: 30 0px;
+    font-size: 24px;
+    padding: 5px;
+    height: 50%;
 }
-
-.parallax4 {
-    background: url('images/pexels-photo-1379636.jpeg') no-repeat center;
+.parallax3 {
+    background: url('images/startup-3.jpg') no-repeat center;
     background-size: cover;
     background-attachment: fixed;
-    height: 500px;
+    height: 50%;
+    width: 100%;
+    margin: 30 0px;
+    font-size: 24px;
+    padding: 5px;
+    height: 50%;
 }
 
 .yellow {

@@ -152,6 +152,17 @@ color: rgb(87, 87, 87);
     color: rgb(27, 27, 27);
 
 }
+.carousel .carousel-item {
+    height: 500px;
+  }
+  
+  .carousel-item img {
+      position: absolute;
+      object-fit: cover;
+      top: 0;
+      left: 0;
+      min-height: 500px;
+  }
 
 
 
